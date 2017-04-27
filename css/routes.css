@@ -1,0 +1,13 @@
+.routes {
+  background: #eee;
+  padding: 40px 0;
+  text-align: center;
+}
+
+.route-img {
+  margin-bottom: 15px;
+}
+
+.route-text p {
+  margin: 15px 0;
+}

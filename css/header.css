@@ -1,0 +1,25 @@
+.main-header {
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  background: #fff;
+  top: 0;
+  opacity: 0.95;
+}
+
+.main-menu-list {
+  font-size: 0;
+}
+
+.main-menu-item {
+  font-size: 16px;
+  display: inline-block;
+}
+
+.main-menu-link {
+  display: block;
+  padding: 20px 10px;
+  text-decoration: none;
+  color: gray;
+  font-weight: bold;
+}

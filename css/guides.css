@@ -1,0 +1,28 @@
+.guides {
+  background: #f3f3f3;
+  padding: 40px 0;
+  text-align: center;
+}
+
+.guide-img {
+  display: inline-block;
+  vertical-align: top;
+  margin-bottom: 15px;
+}
+
+.guide-description {
+  display: inline-block;
+  vertical-align: top;
+  padding: 0 5px;
+}
+
+.guide-img img{
+  border-radius: 100%;
+  border: 5px solid #fff;
+}
+
+.guide-title {
+  font-weight: bold;
+  margin-bottom: 5px;
+  font-style: italic;
+}
